@@ -24,5 +24,7 @@ public class Connect {
 		}catch(SQLException e) {
 			System.out.println("오라클 연동 실패");
 		}
+		
+		System.out.println("끝!");
 	}
 }
