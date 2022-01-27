@@ -12,7 +12,7 @@ public class OracleConn {
 		try {
 			String sql = "select * from test";
 			pstmt = con.prepareStatement(sql);
-			rs = pstmt.executeQuery(); // sql명령어 결과를 ResultSet 객체에 저장   select -> executeQuery() , update,delete,insert -> executeUpdate()
+			rs = pstmt.executeQuery(sql); // sql명령어 결과를 ResultSet 객체에 저장   select -> executeQuery() , update,delete,insert -> executeUpdate()
 			
 			while(rs.next()) { // 테이블 값들을 한 row씩 접근
 				String name = rs.getString("name"); // column이 name인 곳의 데이터를 타입에 맞게 가져옴

@@ -15,16 +15,16 @@ public class Connect {
 		
 		try {
 			Class.forName(driver);
-			System.out.println("driver ·Îµù ¼º°ø");
+			System.out.println("driver ì—°ë™ ì„±ê³µ");
 			
 			con = DriverManager.getConnection(url,userid,passwd);
-			System.out.println("¿À¶óÅ¬ ¿¬µ¿ ¼º°ø");
+			System.out.println("ì˜¤ë¼í´ db ì—°ê²° ì„±ê³µ");
 		}catch(ClassNotFoundException e) {
-			System.out.println("driver ·Îµù ½ÇÆĞ");
+			System.out.println("driver ì—°ë™ ì‹¤íŒ¨");
 		}catch(SQLException e) {
-			System.out.println("¿À¶óÅ¬ ¿¬µ¿ ½ÇÆĞ");
+			System.out.println("ì˜¤ë¼í´ ì—°ê²° ì‹¤íŒ¨");
 		}
 		
-		System.out.println("³¡!");
+		System.out.println("ë!");
 	}
 }
