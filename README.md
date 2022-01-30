@@ -8,11 +8,11 @@ ___
   + JSP
 
 ### 개발 환경
-  + OS
+  + **OS**
     - Rocky Linux, CentOS7, Windows
-  + 사용 Tools
+  + **사용 Tools**
     - eclipse, VScode, virtualbox
-  + 사용한 DB
+  + **사용한 DB**
     - Oracle19c, PostgreSQL, MariaDB
 ___
 
