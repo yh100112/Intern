@@ -1,13 +1,13 @@
-# Project Title #
+# Project Title 
 ___
 나의 7개월 간의 인턴생활을 하며 습득한 기술
 ___
-+ 사용 언어
++ ###사용 언어
   + C/C++
   + Java
   + JSP
 
-+ 개발 환경
++ ###개발 환경
   + OS          : Rocky Linux, CentOS7, Windows
   + 사용 Tools  : eclipse, VScode, virtualbox
   + 사용한 DB   : Oracle19c, PostgreSQL, MariaDB
