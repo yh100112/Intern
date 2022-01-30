@@ -9,11 +9,11 @@ ___
 
 ### 개발 환경
   + OS
-    + Rocky Linux, CentOS7, Windows
+    - Rocky Linux, CentOS7, Windows
   + 사용 Tools
-    + eclipse, VScode, virtualbox
+    - eclipse, VScode, virtualbox
   + 사용한 DB
-    + Oracle19c, PostgreSQL, MariaDB
+    - Oracle19c, PostgreSQL, MariaDB
 ___
 
 
