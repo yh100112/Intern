@@ -6,7 +6,7 @@ ___
   + C/C++
   + Java
   + JSP
-  + HTML
+  + HTML/CSS
 
 ### 개발 환경
   + **OS**
