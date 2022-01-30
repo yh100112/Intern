@@ -1,1 +1,0 @@
-java & oracle19c connection test
