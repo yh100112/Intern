@@ -12,7 +12,7 @@ ___
   + **사용 Tools**
     - eclipse, VScode, virtualbox, Linux Terminal
   + **사용한 DB**
-    - Oracle19c, PostgreSQL, MariaDB, MySQL
+    - Oracle19c, PostgreSQL
 ___
 ### 인턴을 하면서 습득한 역량
 1.  Linux 환경에서 C/C++을 이용한 TCP/IP 네트워크 프로그래밍
